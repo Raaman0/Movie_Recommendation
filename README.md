@@ -14,9 +14,7 @@ This project is a **Hybrid Movie Recommendation System** built using **Python** 
 
 ---
 
-## **Demo**
 
-![Demo Screenshot](screenshot.png) *(Optional: add a screenshot of your Streamlit app here)*
 
 ---
 
